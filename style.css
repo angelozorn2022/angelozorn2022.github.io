@@ -64,7 +64,7 @@ body{
 }
 
 :root{
-    --accentColor: #e26d5c;
+    --accentColor: #E0BFB8;
 }
 
 
@@ -72,7 +72,7 @@ body{
 /* nav bar styling */
 
 .navbar{
-    background-color: #333333;
+    background-color: White;
     padding: 0;
     overflow: hidden;
 }
@@ -85,12 +85,12 @@ body{
 
 
 .navbar-nav hr{
-    color: white;
+    color:  #333333;
 }
 
 #navDormant, #navCurrent{
     
-    color: white;
+    color:  #333333;
     font-size: x-large;
     display: block;
     position: relative;
@@ -369,7 +369,7 @@ body{
 /* main content style */
 
 #banner{
-    background-color: white;
+    background-color: black;
     overflow: hidden;
 }
 
@@ -394,7 +394,7 @@ body{
     font-weight: bold;
     font-size: 5rem;
     margin-bottom: 1.5rem;
-    color: black;
+    color: #EA6666;
     
 }
 
@@ -404,7 +404,7 @@ body{
     font-size: 1.7rem;
     line-height: 1.2;
     margin-bottom: 0.5rem;
-    color: black;
+    color: white;
 }
 
 #resumeButton{
