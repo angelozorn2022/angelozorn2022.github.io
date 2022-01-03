@@ -530,7 +530,7 @@ body{
         position: relative;
         transform: rotate(-25deg) translateY(875px) translateX(-250px);
         z-index: 1;
-	display: none;
+	
         
     }
 	
@@ -541,7 +541,7 @@ body{
     }
     
     #heightAdjust{
-        margin-bottom: -250px;
+        margin-bottom: 50px;
     }
 
     #bannerName:after{
