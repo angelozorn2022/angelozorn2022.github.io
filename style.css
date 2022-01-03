@@ -532,6 +532,9 @@ body{
         z-index: 1;
         
     }
+	#bg1{
+        display: none;
+    }
     
     
     #frontPageBanner{
