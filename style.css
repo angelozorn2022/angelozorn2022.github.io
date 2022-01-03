@@ -537,7 +537,7 @@ body{
     
     
     #frontPageBanner{
-        transform: translateY(-500px);
+        transform: translateY(-50px);
     }
     
     #heightAdjust{
