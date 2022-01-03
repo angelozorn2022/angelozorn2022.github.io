@@ -547,7 +547,7 @@ body{
         display: block;
         width: 0%;
         height: 8px;
-        background: linear-gradient(90deg, rgba(226,109,92,1) 0%, rgba(226,109,92,1) 49%, rgba(255,255,255,1) 100%);;
+        background: linear-gradient(90deg, rgba(226,109,92,1) 0%, rgba(226,109,92,1) 49%, rgba(0,0,0,1) 100%);;
         animation: underlineHeader;
         animation-fill-mode: forwards;
         animation-delay: 9s;
