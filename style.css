@@ -524,7 +524,7 @@ body{
         font-size: 1rem;
     }
     .backgroundLines{
-        background: linear-gradient(90deg, rgb(170, 170, 170) 0%, rgb(212, 212, 212) 35%, rgba(255,255,255,1) 100%);
+        background: linear-gradient(90deg, var(--accentColor) 0%, rgb(40, 40, 40) 35%, rgba(0,0,0,1) 100%);
         width: 1300px;
         height: 600px;
         position: relative;
@@ -541,7 +541,7 @@ body{
     }
     
     #heightAdjust{
-        margin-bottom: -650px;
+        margin-bottom: -5000px;
     }
 
     #bannerName:after{
