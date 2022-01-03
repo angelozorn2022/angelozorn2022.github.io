@@ -541,7 +541,7 @@ body{
     }
     
     #heightAdjust{
-        margin-bottom: 50px;
+        margin-bottom: -650px;
     }
 
     #bannerName:after{
