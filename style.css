@@ -432,7 +432,8 @@ body{
 }
 
 #nextPageBtn:hover{
-    background-color: #EA6666);
+    background-color: var(--accentColor);
+    border: 2px solid var(--accentColor);
     color: white;
 }
 
