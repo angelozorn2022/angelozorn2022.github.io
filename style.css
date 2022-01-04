@@ -432,7 +432,7 @@ body{
 }
 
 #nextPageBtn:hover{
-    background-color: var(--accentColor);
+    background-color: #EA6666);
     color: white;
 }
 
@@ -778,10 +778,10 @@ white-space: nowrap;
 }
 
 #nextPageBtn{
-    background-color: none;
-    border: 2px solid var(--accentColor);
+    background-color: rgb(255, 255, 255);
+    border: 2px solid #EA6666;
     font-size: 2rem;
-    color: color: #EA6666;;
+    color: black;
     width: 30rem;
     outline: none;
     margin: 2rem 0;
@@ -975,8 +975,8 @@ white-space: nowrap;
 }
 
 #aboutResumeButton{
-    background-color: transparent;
-    color: #EA6666;
+    background-color: rgb(255, 255, 255);
+    color: black;
     border: 2px solid #EA6666;
     font-size: 1.5rem;
     text-decoration: none;
