@@ -1085,6 +1085,12 @@ white-space: nowrap;
     margin: 0.5rem 0;
 }
 
+#submitbutton{
+background-color: red;
+	color: black;
+	 
+}
+
 .contactRightBox{
     text-align: center;
     justify-content: center;
