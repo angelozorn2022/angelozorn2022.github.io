@@ -648,12 +648,16 @@ body{
     padding: 2.5% 0;
     font-size: 1.7rem;
     font-weight: bold;
-    display: inline;
+	 display: inline;
+	white-space: nowrap;
+    
 
 }
 
 #highlights span{
     padding-right: 1rem;
+   
+	
 }
 
 #highlights .fa-calculator{
