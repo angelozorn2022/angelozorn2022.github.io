@@ -976,8 +976,8 @@ white-space: nowrap;
 
 #aboutResumeButton{
     background-color: transparent;
-    color: color: #EA6666;;
-    border: 2px solid color: #EA6666;;
+    color: #EA6666;
+    border: 2px solid #EA6666;
     font-size: 1.5rem;
     text-decoration: none;
 }
@@ -992,8 +992,8 @@ white-space: nowrap;
 
 @media (max-width: 992px){
     #aboutResumeButton, #nextPageBtn{
-        background-color: var(--accentColor);
-        color: white;
+        background-color: #EA6666;
+        color: #EA6666;
     }
 }
 
