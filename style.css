@@ -591,7 +591,12 @@ body{
 }
 
 .subHeadingLine{
+    text-align: center; 
+}
+
+.subHeadingLinewhite{
     text-align: center;
+    color:white; 
 }
 
 
