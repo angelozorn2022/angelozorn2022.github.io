@@ -733,6 +733,7 @@ white-space: nowrap;
 #highlights .col-xl-5{
     padding: 0.5rem 1rem;
 	height: 420px;
+	background-color: white;
 }
 
 @media (max-width: 1200px){
