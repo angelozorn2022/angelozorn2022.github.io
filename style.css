@@ -727,7 +727,7 @@ white-space: nowrap;
 }
 
 #projectHighlights{
-    background-color: black;
+    background-color:  var(--accentColor);
 }
 
 #highlights .col-xl-5{
@@ -1001,7 +1001,7 @@ white-space: nowrap;
 /* Portfolio Styling */
 
 #portfolioPage{
-    background-color: black;
+    background-color:  var(--accentColor);
     padding: 2rem 0;
 }
 
