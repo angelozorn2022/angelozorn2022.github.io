@@ -1073,8 +1073,8 @@ white-space: nowrap;
 }
 
 #formContent button{
-    background-color: var(--accentColor);
-    color: white;
+    background-color: #EA6666;
+    color: black;
     font-size: x-large;
     border-radius: 10px;
     padding: 0 1rem;
@@ -1085,11 +1085,7 @@ white-space: nowrap;
     margin: 0.5rem 0;
 }
 
-#submitbutton{
-background-color: red;
-	color: black;
-	 
-}
+
 
 .contactRightBox{
     text-align: center;
