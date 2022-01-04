@@ -727,7 +727,7 @@ white-space: nowrap;
 }
 
 #projectHighlights{
-    background-color: rgb(247, 247, 247);
+    background-color: black;
 }
 
 #highlights .col-xl-5{
@@ -1001,7 +1001,7 @@ white-space: nowrap;
 /* Portfolio Styling */
 
 #portfolioPage{
-    background-color: rgb(247, 247, 247);
+    background-color: black;
     padding: 2rem 0;
 }
 
