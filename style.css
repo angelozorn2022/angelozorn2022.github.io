@@ -649,9 +649,12 @@ body{
     font-size: 1.7rem;
     font-weight: bold;
 	 display: inline;
-	white-space: nowrap;
+	
     
 
+}
+#extranowrap{
+white-space: nowrap;
 }
 
 #highlights span{
