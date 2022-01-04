@@ -72,7 +72,7 @@ body{
 /* nav bar styling */
 
 .navbar{
-    background-color: White;
+    background-color: #333333;;
     padding: 0;
     overflow: hidden;
 }
@@ -90,7 +90,7 @@ body{
 
 #navDormant, #navCurrent{
     
-    color:  #333333;
+    color:  white;
     font-size: x-large;
     display: block;
     position: relative;
