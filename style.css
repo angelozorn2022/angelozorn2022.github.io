@@ -137,6 +137,10 @@ body{
 }
 
 @media (min-width: 992px){
+	
+	#blackletters{
+		color: black;
+	}
 
     .nav-item {
         margin-right: 1.6rem;
