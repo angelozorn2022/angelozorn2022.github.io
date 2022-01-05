@@ -996,12 +996,7 @@ white-space: nowrap;
 
 }
 
-@media (max-width: 992px){
-    #aboutResumeButton, #nextPageBtn{
-        background-color: #EA6666;
-        color: #EA6666;
-    }
-}
+
 
 
 
