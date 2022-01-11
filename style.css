@@ -377,6 +377,7 @@ body{
 #banner{
     background-color: black;
     overflow: hidden;
+    font-family: 'Monaco', monospace;
 }
 
 .left-side-item{
